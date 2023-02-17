@@ -4,7 +4,7 @@
 
 https://github.com/ChristianCadisch/BERTweet-Classifier/blob/main/BERTweet%20Classifier%20Report.pdf
 
-### Running instructions
+### Instructions for running
 
 This code was written with Python 3.8.5.  The dependencies can be found in `requirements.txt`.
 
